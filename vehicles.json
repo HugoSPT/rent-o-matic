@@ -1,0 +1,20 @@
+{
+  "1": {
+    "name": "Ford Fiest",
+    "stock": 1,
+    "price": 20,
+    "mileage": 100000
+  },
+  "2": {
+    "name": "Honda Bike",
+    "stock": 10,
+    "price": 100,
+    "mileage": 200
+  },
+  "3": {
+    "name": "BMX",
+    "stock": 20,
+    "price": 30,
+    "mileage": 10
+  }
+}
