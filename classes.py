@@ -46,7 +46,7 @@ class Cashier:
         if change_to_calculate == 0.0:
             return change
 
-        if self.total_change * 100 < change_to_calculate:
+        if self.total_change < change_to_calculate:
             return None
 
         for value in reversed(self.VALID_COINS):
@@ -123,7 +123,7 @@ class Machine:
             'rv': 'Reload Vehicle Stock',
             'rc': 'Reload Change',
             'help': 'All options',
-            'list': 'List all vehicles a_update_listvailable',
+            'list': 'List all vehicles available',
             'info': 'Info about vehicle with [id]',
             'rent': 'Rent a vehicle with [id]',
             'return': 'Return a vehicle [id] with [mileage]'

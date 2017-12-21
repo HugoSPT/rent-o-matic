@@ -1,38 +1,38 @@
 [
   {
     "value": 0.01,
-    "number": 0
+    "number": 500
   },
   {
     "value": 0.02,
-    "number": 0
+    "number": 500
   },
   {
     "value": 0.05,
-    "number": 0
+    "number": 500
   },
   {
     "value": 0.1,
-    "number": 0
+    "number": 500
   },
   {
     "value": 0.2,
-    "number": 1
+    "number": 500
   },
   {
     "value": 0.5,
-    "number": 0
+    "number": 100
   },
   {
     "value": 1,
-    "number": 0
+    "number": 100
   },
   {
     "value": 2,
-    "number": 0
+    "number": 50
   },
   {
     "value": 5,
-    "number": 0
+    "number": 25
   }
 ]
